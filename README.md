@@ -13,7 +13,7 @@
 * **🤖 Automated Workflow:** _The workflow generates both **standalone patched APK** and **flashable Magisk/KSU/APatch modules** with OTA update support. Every binary and APK is compiled without human intervention._
 * **🔄 Updated Frequently:** _Updated with the latest versions of patches._
 
-## [![Total Downloads](https://img.shields.io/github/downloads/arghya339/PatchedGApps/total?style=for-the-badge&logo=github&logoColor=white)](../../releases)
+## [![Total Downloads](https://img.shields.io/github/downloads/pcmondal64/PatchedGApps/total?style=for-the-badge&logo=github&logoColor=white)](../../releases)
 
 > [!WARNING]
 > Never download APKs or modules from unverified third-party websites found on Google search. These downloads often carry malware, spyware, and adware.
